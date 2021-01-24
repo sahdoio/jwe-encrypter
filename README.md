@@ -5,6 +5,6 @@ We have a simple MVC structure as well for better project organization.
 
 ## Running project
 
-  npm install
+    npm install
 
-  npm run start
+    npm run start
